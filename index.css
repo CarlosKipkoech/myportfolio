@@ -1,0 +1,150 @@
+.navbar{
+    background-color: black;
+    
+}
+
+
+.navbar-brand{
+    padding: 2%;
+    padding-left: 5%;
+    
+}
+
+.showcase{
+    background-color: black;
+    color: white;
+    padding-left: 10%;
+}
+    
+
+.fullstop{
+    font-size: 100px;
+    
+}
+
+.hello{
+    margin-bottom: -6%;
+    font-weight:bolder;
+    font-size: 28px;
+    
+}
+.kipkoech{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.showcase-para{
+    line-height: 1.6em;
+    word-spacing: 0.2em;
+    
+    
+    
+    
+}
+.img-1{
+    padding-right: 20%;
+    
+    width: 2000px;
+    height: 500px;
+    background-image: url("img/african-man.jpg");
+
+}
+
+.showcasi{
+    color: rgb(255, 255, 255);
+    background-image: url(img/african-man.jpg);
+    padding: 9%;
+}
+.scroll{
+    font-size: 15px;
+    padding-top: 10%;
+    border-bottom: solid lightblue;
+    width: 45%;
+    padding-bottom: 2%;
+    word-spacing: 0.5em;
+    letter-spacing: 0.2em;
+}
+.myskillset-para{
+ 
+    width: 150%;
+    
+
+}
+
+.skillset-para{
+    line-height: 1.5em;
+    padding-left: 24%;
+    padding-right: 8%;
+    height: 900%;
+}
+
+#skillset{
+
+color: white;
+padding-left: 5%;
+padding-right: 5%;
+background-image: url(img/240617.jpg);
+}
+
+.skillset{
+    background-image: url(img/240617.jpg);
+    color: white;
+}
+.myskill{
+    font-size: 15px;
+    font-weight: bold;
+}  
+
+.about-me{
+    background-image:url(img/16.jpg);
+    
+}
+   .accordion-item{
+       background-color: black;
+       color: white;
+   }
+
+   .accordion-button{
+       padding: 3%;
+       background-color: black;
+       color: white;
+       border-bottom: solid white;
+       border-radius: 10px;
+   }
+   
+   body{
+       background-color: black;
+   }
+   .card{
+       background-color: black;
+       color: white;
+       border: solid rgb(44, 43, 43);
+   }
+
+   .whatsnext{
+       color:white;
+       padding-top:10%;
+       padding-left:15%;
+       padding-right:15%;
+      font-size: 19px;
+      
+   }
+    .message{
+        padding-top:5%;
+    }
+    .footer{
+        padding: 10%;
+        padding-top: 20%;
+        
+    }
+    .copyright{
+        color: white;
+        padding-top: 5%;
+        
+        width: 100%;
+        margin-right: -5%;
+        padding-left: 70%;
+    }
+    
+
+    
+    
