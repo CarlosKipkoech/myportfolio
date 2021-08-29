@@ -4,7 +4,7 @@
 This project is a showcase of my web development skills,graphic design and user interface. It gives a vivid description of my skills and also my educational
 backgrounds.
 
-## A Project By: CARLOS KIPKOECH (code-zilla)
+## A Project By: Carlos Kipkoech
  View my profile on Github: [CARLOS KIPKOECH](https://github.com/DWN7777/)
 
 ## Specifications
@@ -15,8 +15,8 @@ Access the website on google chrome,safari or mozilla firefox for smooth running
 
 
 # Live link, Site screenschot images and Expectations
-##  live link to site.
-access the project website right here: https://github.com/DWN7777/myportfolio/
+##  Live link to site.
+Access the project website right here: https://github.com/DWN7777/myportfolio/
 
 ##  Screenshots of the site.
 
@@ -35,7 +35,7 @@ access the project website right here: https://github.com/DWN7777/myportfolio/
 * No special requirements are needed while installing or setting up this project as this is a simple static website meant for showcase purposes
 if you may have any problems while viewing or launching the project feel free to contact, Support contact details are attached below:
 
-YOU NEED TO FOLLOW THIS SIMPLE PROCEDURES:
+   YOU NEED TO FOLLOW THIS SIMPLE PROCEDURES:
 ```
 + Install your preffered browser
 + Run the project live-link right on your installed browser
@@ -84,8 +84,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright Ⓒ  2021 [CARLOS KIPKOECH](https://github.com/DWN7777)
-```
+Copyright Ⓒ  2021 CARLOS KIPKOECH
+I```
 ## Acknowledgments
 
 * I must thank Moringa School for teaching me how to write code 
