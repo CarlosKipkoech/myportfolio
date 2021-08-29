@@ -19,7 +19,7 @@ Access the website on google chrome,safari or mozilla firefox for smooth running
 Access the project website right here: https://github.com/DWN7777/myportfolio/
 
 ##  Screenshots of the site.
-
+    ![](img/kip.png) 
 
 ### Once on the site,you should be able to:
 ```
