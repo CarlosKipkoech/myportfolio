@@ -15,7 +15,7 @@ Access the website on google chrome,safari or mozilla firefox for smooth running
 
 
 # Live link, Site screenschot images and Expectations
-##  Live link to site.
+##  Live link to site
 Access the project website right here:https://dwn7777.github.io/myportfolio/
 
 ##  Screenshots of the site
@@ -35,7 +35,7 @@ Access the project website right here:https://dwn7777.github.io/myportfolio/
 ```
 
 
-## Setup/Installation Requirements
+## Installation Requirements
 * No special requirements are needed while installing or setting up this project as this is a simple static website meant for showcase purposes
 if you may have any problems while viewing or launching the project feel free to contact, Support contact details are attached below:
 
