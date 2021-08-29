@@ -4,39 +4,44 @@
 This project is a showcase of my web development skills,graphic design and user interface. It gives a vivid description of my skills and also my educational
 backgrounds.
 
-## Project by: CARLOS KIPKOECH
- View my profile on Github [CARLOS KIPKOECH](https://github.com/DWN7777/)
+## A Project By: CARLOS KIPKOECH (code-zilla)
+ View my profile on Github: [CARLOS KIPKOECH](https://github.com/DWN7777/)
 
-## Specifications.
-Access the website on google chrome,safari or mozilla firefox. This website is responsive on all devices' width.
-Note that this is a static website - it's only meant for showcase purposes and so some of the functionalities cannot be utilized.
+## Specifications
+Note that this is a static website
+ - it's only meant for showcase purposes, some of the functionalities cannot be utilized.
+This website is made responsive across all devices' widths.
+Access the website on google chrome,safari or mozilla firefox for smooth running 
 
-# Live link, site screenschot images and expectations:
+
+# Live link, Site screenschot images and Expectations
 ##  live link to site.
+access the project website right here: https://github.com/DWN7777/myportfolio/
 
 ##  Screenshots of the site.
 
 
-###  you should be able to:
+### Once on the site,you should be able to:
 ```
 + View a display picture representing me with my skillset description.
 + Navigate to my contact section and open my CV 
 + View my previous projects on github pages
-+ Fill in a form in the 'leave a message section.
++ Fill in a form in the 'leave a message' section.
 
 ```
 
 
 ## Setup/Installation Requirements
 * No special requirements are needed while installing or setting up this project as this is a simple static website meant for showcase purposes
-if you may have any problems while viewing project feel free to contact at carlos598798@gmail.com
+if you may have any problems while viewing or launching the project feel free to contact, Support contact details are attached below:
+
 YOU NEED TO FOLLOW THIS SIMPLE PROCEDURES:
 ```
 + Install your preffered browser
 + Run the project live-link right on your installed browser
 
 ```
-To get a copy of this projects, if you may didto fix known bugs or simple editing, follow these instructions
+To get a copy of this projects, that is, if you have a fix to a known bug or simple editing, follow these instructions cloning instructions:
 
 + Git clone (clones to your editor)
 + Make the neccessary changes then do a Pull Request.
@@ -45,12 +50,13 @@ To get a copy of this projects, if you may didto fix known bugs or simple editin
 WOrking on adding media queries for extra unique devices widths 
 
 ## Prerequisites
-You need your preffered browser installed. Best known browsers are Chrome(Google Android), Safari(ios), Mozilla (firefox)
-Make you sure have the right live link to this specific project. The link is (https://github.com/DWN7777/myportfolio/).
+- You need your preffered browser installed. Preffered browsers are Chrome(Google Android), Safari(ios), Mozilla (firefox)
+- Make you sure have the right live link to this specific project. The link is (https://github.com/DWN7777/myportfolio/).
 
 ## Technologies Used
-HTML for the general website Structure, Bootstrap and CSS for Responsiveness and styling across all devices' widths.
-Internal javascript for interactivity. Git  for version control
+> HTML for the general website Structure 
+> Bootstrap and CSS for Responsiveness and styling across all devices' widths.
+> Internal javascript for interactivity. Git  for version control
 
 ## Support and contact details
 If you may need to reach out concerning any of my work,if you need to make suggestion or any other businness, feel free to reach out through 
