@@ -51,7 +51,7 @@ To get a copy of this projects, that is, if you have a fix to a known bug or sim
 + Make the neccessary changes then do a Pull Request.
 
 ## Known Bugs
-Working on adding media queries for extra unique devices widths 
+> Working on adding media queries for extra unique devices widths 
 
 ## Prerequisites
 - You need your preffered browser installed. Preffered browsers are Chrome(Google Android), Safari(ios), Mozilla (firefox)
