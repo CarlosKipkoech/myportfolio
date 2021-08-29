@@ -16,7 +16,7 @@ Access the website on google chrome,safari or mozilla firefox for smooth running
 
 # Live link, Site screenschot images and Expectations
 ##  Live link to site.
-Access the project website right here: https://github.com/DWN7777/myportfolio/
+Access the project website right here:https://dwn7777.github.io/myportfolio/
 
 ##  Screenshots of the site.
   ![kip](https://user-images.githubusercontent.com/87478982/131252868-c6dbe475-0456-4be3-b854-633f4c6f82e5.png) ![Screenshot from 2021-08-29 10-07](https://user-images.githubusercontent.com/87478982/131252950-f87928ca-dfbb-4bd7-9b67-8e871d6216f0.png)
