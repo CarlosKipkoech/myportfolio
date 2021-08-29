@@ -8,7 +8,7 @@ backgrounds.
  View my profile on Github: [CARLOS KIPKOECH](https://github.com/DWN7777/)
 
 ## Specifications
-Note that this is a static website
+> Note that this is a static website
  - it's only meant for showcase purposes, some of the functionalities cannot be utilized.
 This website is made responsive across all devices' widths.
 Access the website on google chrome,safari or mozilla firefox for smooth running 
