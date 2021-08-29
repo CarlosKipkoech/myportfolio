@@ -63,6 +63,15 @@
     word-spacing: 0.5em;
     letter-spacing: 0.2em;
 }
+.scroll1{
+    font-size: 12px;
+    padding-top: 10%;
+    border-bottom: solid lightblue;
+    padding-bottom: 2%;
+    word-spacing: 0.5em;
+    letter-spacing: 0.2em;
+    width: 42%;
+}
 .myskillset-para{
  
     width: 150%;
